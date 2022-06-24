@@ -1,7 +1,7 @@
 import React from 'react';
 
-import SubHeading from '../../UI/SubHeading/SubHeading';
-import { images } from '../../../utils';
+import SubHeading from '../UI/SubHeading/SubHeading';
+import { images } from '../../utils';
 import './Header.css';
 
 const Header = () => (
