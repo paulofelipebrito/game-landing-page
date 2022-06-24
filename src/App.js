@@ -10,6 +10,7 @@ import Intro from './components/Intro/Intro';
 import Laurels from './components/Laurels/Laurels';
 import Gallery from './components/Gallery/Gallery';
 import FindUs from './components/Findus/FindUs';
+import Footer from './components/Footer/Footer';
 
 const App = () => (
   <div>
@@ -22,6 +23,7 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
+    <Footer />
   </div>
 );
 
