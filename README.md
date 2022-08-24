@@ -59,7 +59,6 @@ Design based on theme from (https://themeforest.net/item/gericht-restaurant-word
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Typescript][Typescript]][Typescript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
