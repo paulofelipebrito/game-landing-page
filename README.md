@@ -36,6 +36,8 @@
     Gericht Restaurant
 </h1>
 
+[🔗**restaurant-demo-app.netlify.app**][deploy-url]
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -51,6 +53,8 @@
 Welcome to the _GitHub repository_ of my **Gericht Restaurant** project! Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
 
 This site provides landing page for Restaurants. Users will find **a fully responsive website, with about me, menu, information about the chef, environmental video, laurels, photo gallery, location and opening hours, newsletter**. 
+
+If you're confused about where you are, try this [**this link**][deploy-url] to the deployed project instead 😄.
 
 Design based on theme from (https://themeforest.net/item/gericht-restaurant-wordpress-theme/34100662?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEGz1Tn0NxPbs8M1Mj70dIKrN8DQb70QZCjyXct2_g3acCldMjD4EZBoCfXEQAvD_BwE)
 
